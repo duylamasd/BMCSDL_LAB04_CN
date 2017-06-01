@@ -1,0 +1,10 @@
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\bin\Debug\QLSVLog.exe.config
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\bin\Debug\QLSVLog.exe
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\bin\Debug\QLSVLog.pdb
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.csprojResolveAssemblyReference.cache
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.EmployeesList.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.Form1.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.Properties.Resources.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.csproj.GenerateResource.Cache
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.exe
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_CN\QLSVLog\obj\Debug\QLSVLog.pdb
